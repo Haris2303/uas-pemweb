@@ -1,0 +1,23 @@
+#profile {
+    position: relative;
+    width: 300px;
+    padding: 20px 15px;
+    background-color: var(--bg-color);
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+}
+
+#profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top: -130px;
+}
+
+#profile .media-sosial {
+    display: flex;
+}
